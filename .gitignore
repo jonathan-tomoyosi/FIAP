@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark (gerados ao rodar localmente)
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
